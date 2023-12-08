@@ -1,4 +1,4 @@
-<h3>新增網站標題圖片<?=$_GET['table'];?></h3>
+<h3>新增網站標題圖片</h3>
 <hr>
 <form action="./api/add_title" method="post" enctype="multipart/form-data">
 <table>
