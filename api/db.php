@@ -145,4 +145,5 @@ function to($url){
 $Title=new DB('titles');
 $Total=new DB('total');
 $Bottom=new DB('bottom');
+$Ad=new DB('ad');
 ?>
